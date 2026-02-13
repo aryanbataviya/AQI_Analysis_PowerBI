@@ -1,8 +1,5 @@
-Here’s a professional **GitHub README content** for your **Power BI AQI Analysis Dashboard** project 👇
 
----
-
-# 🌫️ AQI Analysis Dashboard
+# AQI Analysis Dashboard
 
 ## 📌 Project Overview
 
